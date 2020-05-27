@@ -6,7 +6,9 @@ permalink: /about/
 
 the site: a space to show results of data analysis projects.
 
-the author: mechanical engineer experienced in large capital projects (planning, project controls and construction management). I look for the digitalisation of project management as a mean to enhance the decision making processes and its results.
+The author:  a mechanical engineer experienced in large capital projects (in diverse areas as planning, project controls and construction management). My focus is on the digitalization of project management as a mean to enhance the decision making processes and its results.
+
+![useful image]({{ site.url }}/assets/withmyson.jpg)
 
 
 
