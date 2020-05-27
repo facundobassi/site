@@ -8,7 +8,7 @@ the site: a space to show results of data analysis projects.
 
 The author:  a mechanical engineer experienced in large capital projects (in diverse areas as planning, project controls and construction management). My focus is on the digitalization of project management as a mean to enhance the decision making processes and its results.
 
-![useful image]({{ https://github.com/facundobassi/site/tree/gh-pages }}/assets/withmyson.jpg)
+![](/assets/withmyson.jpg)
 
 
 
