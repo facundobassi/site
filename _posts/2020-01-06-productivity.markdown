@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "productivity factor basement"
-date:   2020-05-26 00:30:01 -0300
+date:   2020-01-06 00:30:01 -0300
 categories: jekyll update
 ---
 In this post I will present a basic generic model to visualise the relative impact of different factors in the excess of resources required for the completion of a given group of activities.
