@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "productivity factor composition"
+title:  "productivity factor composition /n 2nd order factors"
 date:   2020-01-06 00:30:01 -0300
 categories: jekyll update
 ---
