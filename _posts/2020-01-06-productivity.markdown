@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "productivity factor basement"
+title:  "productivity factor composition"
 date:   2020-01-06 00:30:01 -0300
 categories: jekyll update
 ---
